@@ -131,7 +131,7 @@
     "title": "Ontvang betaling",
     "address": "Ontvang betaling na adres",
     "amount": "Bedrag",
-    "note": "Note",
+    "note": "Nota",
     "decimals": "Information about decimal place to QR code",
     "label": "Suggested label of the receiver address",
     "noteeditable": "Note is editable by user"
